@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="packaged_channels">
+        <item>All</item>
+        <item>Videos</item>
+        <item>Music</item>
+        <item>Funny</item>
+        <item>Sports</item>
+        <item>Gaming</item>
+        <item>Movies</item>
+        <item>AWW</item>
+        <item>HipHopHeads</item>
+        <item>DeepIntoYouTube</item>
+    </string-array>
+
+</resources>

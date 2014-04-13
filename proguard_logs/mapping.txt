@@ -1,0 +1,402 @@
+com.mmcmahon.rtv2go.ACTV_VideoPlayer -> com.mmcmahon.rtv2go.ACTV_VideoPlayer:
+    java.lang.String TAG -> a
+    com.mmcmahon.rtv2go.video.VideoPlayer videoPlayer -> b
+    com.mmcmahon.rtv2go.VideoInterface videoIface -> c
+    com.mmcmahon.rtv2go.dialogs.InterfaceDialog ifaceDialog -> d
+    android.content.SharedPreferences spChannels -> e
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter chanAdapter -> f
+    com.mmcmahon.rtv2go.dialogs.MenuDialog menuPopup -> g
+    android.view.View contextBar -> h
+    android.widget.TextView vidContext -> i
+    android.widget.TextView chanContext -> j
+    java.lang.String loadedChan -> k
+    java.util.Timer hideTimer -> l
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void onPause() -> onPause
+    void onConfigurationChanged(android.content.res.Configuration) -> onConfigurationChanged
+    void loadChannelsAdapter() -> e
+    java.lang.String createDefaultChannels() -> f
+    void createInterface(com.mmcmahon.rtv2go.video.VideoPlayer,com.mmcmahon.rtv2go.channels.ChannelsAdapter,com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter) -> a
+    void loadChannel(java.lang.String) -> a
+    void playVideo(int,java.lang.String) -> a
+    void pushChannel(java.lang.String) -> b
+    void spSaveChannel(java.lang.String) -> c
+    void spDeleteChannel(java.lang.String) -> d
+    void hideSoftKeyboard(android.os.IBinder) -> a
+    void showRemove(boolean,com.mmcmahon.rtv2go.dialogs.RemoveDialog) -> a
+    void setLoadProgress(int) -> a
+    void setLoadedVid(java.lang.String) -> e
+    void setLoadedChan(java.lang.String) -> f
+    void showContextBar() -> a
+    void hideContextBar() -> b
+    void startHideTimer() -> g
+    void closeMenu() -> c
+    void openMenu() -> d
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter access$000(com.mmcmahon.rtv2go.ACTV_VideoPlayer) -> a
+    com.mmcmahon.rtv2go.dialogs.InterfaceDialog access$200(com.mmcmahon.rtv2go.ACTV_VideoPlayer) -> b
+    android.widget.TextView access$300(com.mmcmahon.rtv2go.ACTV_VideoPlayer) -> c
+    android.widget.TextView access$400(com.mmcmahon.rtv2go.ACTV_VideoPlayer) -> d
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$1 -> com.mmcmahon.rtv2go.a:
+    java.lang.String val$ch -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$2 -> com.mmcmahon.rtv2go.b:
+    android.view.inputmethod.InputMethodManager val$imm -> a
+    android.os.IBinder val$winToken -> b
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> c
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$4 -> com.mmcmahon.rtv2go.c:
+    boolean val$show -> a
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog val$rd -> b
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> c
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$6 -> com.mmcmahon.rtv2go.d:
+    java.lang.String val$vidTitle -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$7 -> com.mmcmahon.rtv2go.e:
+    java.lang.String val$chanTitle -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$HideTask -> com.mmcmahon.rtv2go.f:
+    android.app.Activity act -> a
+    android.view.View vContextBar -> b
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer this$0 -> c
+    void run() -> run
+com.mmcmahon.rtv2go.ACTV_VideoPlayer$HideTask$1 -> com.mmcmahon.rtv2go.g:
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer$HideTask this$1 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.VideoInterface -> com.mmcmahon.rtv2go.VideoInterface:
+    int OUT_ANIM_MS -> a
+    int IN_ANIM_MS -> b
+    int HIDE_DELAY -> c
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> d
+    android.widget.ImageButton searchBtn -> e
+    android.widget.Gallery thumbnails -> f
+    com.mmcmahon.rtv2go.video.VideoPlayer player -> g
+    com.mmcmahon.rtv2go.channels.HorizontalListView channelList -> h
+    android.widget.EditText subredditSearch -> i
+    boolean hidden -> j
+    java.util.Timer hideTimer -> k
+    com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter thumbAdapter -> l
+    android.widget.TextView titleDisplay -> m
+    android.widget.AdapterView$OnItemSelectedListener thumbSelected -> n
+    void onNextOrPrev(int) -> a
+    void setupListeners() -> b
+    void setupIface(com.mmcmahon.rtv2go.video.VideoPlayer,com.mmcmahon.rtv2go.channels.ChannelsAdapter,com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter) -> a
+    boolean onInterceptTouchEvent(android.view.MotionEvent) -> onInterceptTouchEvent
+    void setupSearch() -> c
+    boolean handleKeyPress(int) -> b
+    void addSearchChannel() -> d
+    void setupThumbnails() -> e
+    void showInterface() -> f
+    void hideInterface() -> g
+    void startHideTimer() -> h
+    void hideSoftKeyboard() -> i
+    void setLoadProgress(int) -> setLoadProgress
+    void clearThumbnails() -> a
+    com.mmcmahon.rtv2go.video.VideoPlayer access$000(com.mmcmahon.rtv2go.VideoInterface) -> a
+    android.widget.Gallery access$100(com.mmcmahon.rtv2go.VideoInterface) -> b
+    com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter access$200(com.mmcmahon.rtv2go.VideoInterface) -> c
+    void access$300(com.mmcmahon.rtv2go.VideoInterface,int) -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer access$400(com.mmcmahon.rtv2go.VideoInterface) -> d
+    android.widget.EditText access$500(com.mmcmahon.rtv2go.VideoInterface) -> e
+    com.mmcmahon.rtv2go.channels.HorizontalListView access$600(com.mmcmahon.rtv2go.VideoInterface) -> f
+    void access$700(com.mmcmahon.rtv2go.VideoInterface) -> g
+    boolean access$900(com.mmcmahon.rtv2go.VideoInterface,int) -> b
+    boolean access$1000(com.mmcmahon.rtv2go.VideoInterface) -> h
+    void access$1100(com.mmcmahon.rtv2go.VideoInterface) -> i
+    android.widget.TextView access$1200(com.mmcmahon.rtv2go.VideoInterface) -> j
+    void access$1300(com.mmcmahon.rtv2go.VideoInterface) -> k
+com.mmcmahon.rtv2go.VideoInterface$1 -> com.mmcmahon.rtv2go.h:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.mmcmahon.rtv2go.VideoInterface$2 -> com.mmcmahon.rtv2go.i:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.VideoInterface$3 -> com.mmcmahon.rtv2go.j:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.VideoInterface$4 -> com.mmcmahon.rtv2go.k:
+    int ADD_ACTION -> b
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    boolean onEditorAction(android.widget.TextView,int,android.view.KeyEvent) -> onEditorAction
+com.mmcmahon.rtv2go.VideoInterface$5 -> com.mmcmahon.rtv2go.l:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    boolean onKey(android.view.View,int,android.view.KeyEvent) -> onKey
+com.mmcmahon.rtv2go.VideoInterface$6 -> com.mmcmahon.rtv2go.m:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void beforeTextChanged(java.lang.CharSequence,int,int,int) -> beforeTextChanged
+    void onTextChanged(java.lang.CharSequence,int,int,int) -> onTextChanged
+    void afterTextChanged(android.text.Editable) -> afterTextChanged
+com.mmcmahon.rtv2go.VideoInterface$7 -> com.mmcmahon.rtv2go.n:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+com.mmcmahon.rtv2go.VideoInterface$8 -> com.mmcmahon.rtv2go.o:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.VideoInterface$HideTask -> com.mmcmahon.rtv2go.p:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.VideoInterface$HideTask$1 -> com.mmcmahon.rtv2go.q:
+    com.mmcmahon.rtv2go.VideoInterface$HideTask this$1 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.VideoInterface$OnSearchClick -> com.mmcmahon.rtv2go.r:
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.VideoInterface$OnThumbSelected -> com.mmcmahon.rtv2go.s:
+    android.widget.ImageView selectedImgView -> d
+    android.widget.Gallery$LayoutParams bigLps -> a
+    android.widget.Gallery$LayoutParams oldLps -> b
+    com.mmcmahon.rtv2go.VideoInterface this$0 -> c
+    void onItemSelected(android.widget.AdapterView,android.view.View,int,long) -> onItemSelected
+    void onNothingSelected(android.widget.AdapterView) -> onNothingSelected
+com.mmcmahon.rtv2go.channels.ChannelsAdapter -> com.mmcmahon.rtv2go.channels.a:
+    int selected -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> b
+    java.util.Vector channels -> c
+    android.view.LayoutInflater inflater -> d
+    android.view.View searchBox -> e
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog removePrompt -> f
+    void createSearchBox() -> b
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    void removeDefault(java.lang.String) -> d
+    void removeChannel(java.lang.String) -> a
+    void pushChannel(java.lang.String) -> b
+    void addChannel(java.lang.String) -> c
+    void addChannel(java.lang.String,int) -> a
+    android.widget.EditText getSearchBox() -> a
+    void setSelected(int) -> a
+    int access$000(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer access$100(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> b
+    java.util.Vector access$200(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> c
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog access$300(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> d
+    int access$010(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> e
+    int access$002(com.mmcmahon.rtv2go.channels.ChannelsAdapter,int) -> a
+com.mmcmahon.rtv2go.channels.ChannelsAdapter$1 -> com.mmcmahon.rtv2go.channels.b:
+    java.lang.String val$message -> a
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.channels.ChannelsAdapter$2 -> com.mmcmahon.rtv2go.channels.c:
+    int val$rmPos -> a
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.channels.ChannelsAdapter$3 -> com.mmcmahon.rtv2go.channels.d:
+    java.lang.String val$ch -> a
+    int val$i -> b
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter this$0 -> c
+    void run() -> run
+com.mmcmahon.rtv2go.channels.ChannelsAdapter$4 -> com.mmcmahon.rtv2go.channels.e:
+    int val$i -> a
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter this$0 -> b
+    void run() -> run
+com.mmcmahon.rtv2go.channels.ChannelsAdapter$OnChannelClick -> com.mmcmahon.rtv2go.channels.f:
+    int channel -> b
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter this$0 -> a
+    void onClick(android.view.View) -> onClick
+    boolean onLongClick(android.view.View) -> onLongClick
+com.mmcmahon.rtv2go.channels.HorizontalListView -> com.mmcmahon.rtv2go.channels.HorizontalListView:
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter mAdapter -> a
+    int mLeftViewIndex -> b
+    int mRightViewIndex -> c
+    int mCurrentX -> d
+    int mNextX -> e
+    int mMaxX -> f
+    int mDisplayOffset -> g
+    android.widget.Scroller mScroller -> h
+    android.view.GestureDetector mGesture -> i
+    java.util.Queue mRemovedViewQueue -> j
+    boolean mDataChanged -> k
+    java.lang.Runnable runReqLayout -> l
+    android.database.DataSetObserver mDataObserver -> m
+    android.view.GestureDetector$OnGestureListener mOnGesture -> n
+    void initView() -> b
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter getAdapter() -> getAdapter
+    android.view.View getSelectedView() -> getSelectedView
+    void setAdapter(com.mmcmahon.rtv2go.channels.ChannelsAdapter) -> setAdapter
+    void reset() -> c
+    void setSelection(int) -> setSelection
+    void addAndMeasureChild(android.view.View,int) -> a
+    void onLayout(boolean,int,int,int,int) -> onLayout
+    void fillList(int) -> b
+    void fillListRight(int,int) -> a
+    void fillListLeft(int,int) -> b
+    void removeNonVisibleItems(int) -> c
+    void positionItems(int) -> d
+    void scrollTo(int) -> a
+    boolean dispatchTouchEvent(android.view.MotionEvent) -> dispatchTouchEvent
+    void onFling(float) -> a
+    boolean onDown() -> a
+    void setAdapter(android.widget.Adapter) -> setAdapter
+    android.widget.Adapter getAdapter() -> getAdapter
+    boolean access$002(com.mmcmahon.rtv2go.channels.HorizontalListView,boolean) -> a
+    void access$100(com.mmcmahon.rtv2go.channels.HorizontalListView) -> a
+    int access$212(com.mmcmahon.rtv2go.channels.HorizontalListView,int) -> a
+com.mmcmahon.rtv2go.channels.HorizontalListView$1 -> com.mmcmahon.rtv2go.channels.g:
+    com.mmcmahon.rtv2go.channels.HorizontalListView this$0 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.channels.HorizontalListView$2 -> com.mmcmahon.rtv2go.channels.h:
+    com.mmcmahon.rtv2go.channels.HorizontalListView this$0 -> a
+    void onChanged() -> onChanged
+    void onInvalidated() -> onInvalidated
+com.mmcmahon.rtv2go.channels.HorizontalListView$3 -> com.mmcmahon.rtv2go.channels.i:
+    com.mmcmahon.rtv2go.channels.HorizontalListView this$0 -> a
+    boolean onDown(android.view.MotionEvent) -> onDown
+    boolean onFling(android.view.MotionEvent,android.view.MotionEvent,float,float) -> onFling
+    boolean onScroll(android.view.MotionEvent,android.view.MotionEvent,float,float) -> onScroll
+    boolean onSingleTapUp(android.view.MotionEvent) -> onSingleTapUp
+    void onLongPress(android.view.MotionEvent) -> onLongPress
+com.mmcmahon.rtv2go.dialogs.InterfaceDialog -> com.mmcmahon.rtv2go.a.a:
+    com.mmcmahon.rtv2go.VideoInterface lsiface -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> b
+    android.view.View contextBar -> c
+    void onBackPressed() -> onBackPressed
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    com.mmcmahon.rtv2go.VideoInterface getInterfaceView() -> a
+    android.view.View getContextBar() -> b
+com.mmcmahon.rtv2go.dialogs.MenuDialog -> com.mmcmahon.rtv2go.a.b:
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> a
+    android.widget.TextView exit -> b
+    void onBackPressed() -> onBackPressed
+    void setListeners() -> a
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer access$000(com.mmcmahon.rtv2go.dialogs.MenuDialog) -> a
+com.mmcmahon.rtv2go.dialogs.MenuDialog$1 -> com.mmcmahon.rtv2go.a.c:
+    com.mmcmahon.rtv2go.dialogs.MenuDialog this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.dialogs.RemoveDialog -> com.mmcmahon.rtv2go.a.d:
+    android.view.View yes -> a
+    android.view.View no -> b
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter chanAdapter -> c
+    java.lang.String chan -> d
+    android.widget.TextView prompt -> e
+    android.content.res.Resources res -> f
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> g
+    void setPrompt(java.lang.String) -> b
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog setChannel(java.lang.String) -> a
+    void setListeners() -> a
+    java.lang.String access$000(com.mmcmahon.rtv2go.dialogs.RemoveDialog) -> a
+    void access$100(com.mmcmahon.rtv2go.dialogs.RemoveDialog,java.lang.String) -> a
+    com.mmcmahon.rtv2go.channels.ChannelsAdapter access$200(com.mmcmahon.rtv2go.dialogs.RemoveDialog) -> b
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer access$300(com.mmcmahon.rtv2go.dialogs.RemoveDialog) -> c
+com.mmcmahon.rtv2go.dialogs.RemoveDialog$1 -> com.mmcmahon.rtv2go.a.e:
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog this$0 -> a
+    void run() -> run
+com.mmcmahon.rtv2go.dialogs.RemoveDialog$2 -> com.mmcmahon.rtv2go.a.f:
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.dialogs.RemoveDialog$3 -> com.mmcmahon.rtv2go.a.g:
+    com.mmcmahon.rtv2go.dialogs.RemoveDialog this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.mmcmahon.rtv2go.thumbnails.BitmapCache -> com.mmcmahon.rtv2go.b.a:
+    android.content.Context actvCon -> a
+    com.mmcmahon.rtv2go.thumbnails.BitmapCache createBitmapCache(android.content.Context,int) -> a
+    int sizeOf(java.lang.String,android.graphics.Bitmap) -> a
+    void getBitmap(android.widget.ImageView,java.lang.String,java.lang.String) -> a
+    java.io.InputStream getImageContent(java.lang.String) -> a
+    int sizeOf(java.lang.Object,java.lang.Object) -> a
+com.mmcmahon.rtv2go.thumbnails.BitmapCache$BitmapWorkerTask -> com.mmcmahon.rtv2go.b.b:
+    android.widget.ImageView imgView -> b
+    com.mmcmahon.rtv2go.thumbnails.BitmapCache this$0 -> a
+    android.graphics.Bitmap doInBackground(java.lang.String[]) -> a
+    void onPostExecute(android.graphics.Bitmap) -> a
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+com.mmcmahon.rtv2go.thumbnails.LruCache -> com.mmcmahon.rtv2go.b.c:
+    java.util.LinkedHashMap map -> a
+    int size -> b
+    int maxSize -> c
+    int putCount -> d
+    int createCount -> e
+    int evictionCount -> f
+    int hitCount -> g
+    int missCount -> h
+    java.lang.Object get(java.lang.Object) -> a
+    java.lang.Object put(java.lang.Object,java.lang.Object) -> b
+    void trimToSize(int) -> a
+    void entryRemoved(boolean,java.lang.Object,java.lang.Object,java.lang.Object) -> a
+    java.lang.Object create(java.lang.Object) -> b
+    int safeSizeOf(java.lang.Object,java.lang.Object) -> c
+    int sizeOf(java.lang.Object,java.lang.Object) -> a
+    java.lang.String toString() -> toString
+com.mmcmahon.rtv2go.thumbnails.ThumbnailContent -> com.mmcmahon.rtv2go.b.d:
+    java.lang.String url -> a
+    java.lang.String title -> b
+    java.lang.String getUrl() -> a
+    java.lang.String getTitle() -> b
+com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter -> com.mmcmahon.rtv2go.b.e:
+    int THUMB_HEIGHT -> a
+    int THUMB_WIDTH -> b
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> c
+    com.mmcmahon.rtv2go.thumbnails.BitmapCache bitmapCache -> d
+    java.util.Vector thumbData -> e
+    void clearAllThumbs() -> a
+    void configThumbSize() -> b
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    java.lang.String getThumbTitle(int) -> a
+    com.mmcmahon.rtv2go.thumbnails.BitmapCache access$000(com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter) -> a
+com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter$1 -> com.mmcmahon.rtv2go.b.f:
+    com.mmcmahon.rtv2go.thumbnails.UrlImageView val$imageView -> a
+    java.lang.String val$imgUrl -> b
+    com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter this$0 -> c
+    void run() -> run
+com.mmcmahon.rtv2go.thumbnails.UrlImageView -> com.mmcmahon.rtv2go.b.g:
+    java.lang.String url -> a
+    void setUrl(java.lang.String) -> a
+com.mmcmahon.rtv2go.video.HTML5WebView -> com.mmcmahon.rtv2go.c.a:
+    android.content.Context mContext -> b
+    com.mmcmahon.rtv2go.video.HTML5WebView$MyWebChromeClient mWebChromeClient -> c
+    android.view.View mCustomView -> d
+    android.widget.FrameLayout mCustomViewContainer -> e
+    android.webkit.WebChromeClient$CustomViewCallback mCustomViewCallback -> f
+    android.widget.FrameLayout mLayout -> g
+    android.widget.FrameLayout$LayoutParams COVER_SCREEN_PARAMS -> a
+    void init(android.content.Context) -> a
+    android.widget.FrameLayout getLayout() -> getLayout
+    boolean inCustomView() -> a
+    void hideCustomView() -> b
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    android.content.Context access$200(com.mmcmahon.rtv2go.video.HTML5WebView) -> a
+    android.view.View access$300(com.mmcmahon.rtv2go.video.HTML5WebView) -> b
+    android.widget.FrameLayout access$400(com.mmcmahon.rtv2go.video.HTML5WebView) -> c
+    android.view.View access$302(com.mmcmahon.rtv2go.video.HTML5WebView,android.view.View) -> a
+    android.webkit.WebChromeClient$CustomViewCallback access$502(com.mmcmahon.rtv2go.video.HTML5WebView,android.webkit.WebChromeClient$CustomViewCallback) -> a
+    android.webkit.WebChromeClient$CustomViewCallback access$500(com.mmcmahon.rtv2go.video.HTML5WebView) -> d
+com.mmcmahon.rtv2go.video.HTML5WebView$1 -> com.mmcmahon.rtv2go.c.b:
+com.mmcmahon.rtv2go.video.HTML5WebView$MyWebChromeClient -> com.mmcmahon.rtv2go.c.c:
+    android.graphics.Bitmap mDefaultVideoPoster -> b
+    android.view.View mVideoProgressView -> c
+    com.mmcmahon.rtv2go.video.HTML5WebView this$0 -> a
+    void onProgressChanged(android.webkit.WebView,int) -> onProgressChanged
+    void onShowCustomView(android.view.View,android.webkit.WebChromeClient$CustomViewCallback) -> onShowCustomView
+    void onHideCustomView() -> onHideCustomView
+    android.graphics.Bitmap getDefaultVideoPoster() -> getDefaultVideoPoster
+    android.view.View getVideoLoadingProgressView() -> getVideoLoadingProgressView
+com.mmcmahon.rtv2go.video.HTML5WebView$MyWebViewClient -> com.mmcmahon.rtv2go.c.d:
+    com.mmcmahon.rtv2go.video.HTML5WebView this$0 -> a
+    boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String) -> shouldOverrideUrlLoading
+com.mmcmahon.rtv2go.video.JsInterface -> com.mmcmahon.rtv2go.c.e:
+    com.mmcmahon.rtv2go.ACTV_VideoPlayer actvCon -> a
+    int width -> b
+    int height -> c
+    android.widget.Toast tShow -> d
+    android.widget.TextView tMsg -> e
+    boolean initLoad -> f
+    com.mmcmahon.rtv2go.thumbnails.ThumbnailsAdapter tnsAdapter -> g
+    java.lang.String initChannel -> h
+    void setSize(int,int) -> a
+com.mmcmahon.rtv2go.video.VideoPlayer -> com.mmcmahon.rtv2go.c.f:
+    com.mmcmahon.rtv2go.video.JsInterface jsi -> b
+    void onCreate(com.mmcmahon.rtv2go.video.JsInterface) -> a
+    void onSizeChanged(int,int,int,int) -> onSizeChanged
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    boolean onTouchEvent(android.view.MotionEvent) -> onTouchEvent
+    void playVideo(int) -> a
+    void loadChannel(java.lang.String) -> a
+    void setSize(int,int) -> a

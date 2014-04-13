@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="WHITE_BG">#a0ffffff</color>
+    <color name="IFACE_BG">#a0000000</color>
+   <color name="SEARCH_GREEN_OPQ">#a066cdaa</color>
+    <color name="THUMB_SELECTED">#a0aaaaaa</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <integer name="ADD_ACTION">99</integer>
+</resources>

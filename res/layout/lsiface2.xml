@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- style="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" > -->
+<LinearLayout
+    android:id="@+id/contextBar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:orientation="horizontal"
+    android:gravity="fill_horizontal"
+    android:visibility="gone">
+
+<TextView
+    android:id="@+id/channelContext"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/IFACE_BG"
+    android:gravity="left"
+    android:layout_weight="0.3"
+    android:singleLine="true"
+    android:text="@string/loading"
+    />
+    <TextView
+        android:id="@+id/videoContext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/IFACE_BG"
+        android:gravity="right"
+        android:layout_weight="0.7"
+        android:singleLine="true"
+        />
+</LinearLayout>
+    <com.mmcmahon.rtv2go.VideoInterface
+        android:id="@+id/lsifaceClickables"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/contextBar">
+
+        <!--WebView Area-->
+        <LinearLayout
+            android:id="@+id/lsifaceVideoArea"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/lsifaceThumbTitle"
+            android:layout_below="@+id/lsifaceTopPanel"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+        android:orientation="horizontal"/>
+
+
+<!-- Top Panel -->
+<RelativeLayout 
+    android:id="@+id/lsifaceTopPanel"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            >
+        <!-- SEARCH BUTTON -->
+    <ImageButton
+        android:id="@+id/sboxSearchBtn"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/IFACE_BG"
+        android:src="@drawable/plus_sign"
+        android:scaleType="fitCenter"
+        android:padding="3dp"
+        />
+        <View
+            android:id="@+id/sbMiddleSeparator"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/sboxSearchBtn"
+            android:layout_marginRight="0dp"
+            android:layout_toRightOf="@+id/sboxSearchBtn"
+            android:background="#30ffffff" />
+
+           <!-- /SEARCH BUTTON -->
+
+
+        <!-- CHANNELS LIST -->
+
+        <com.mmcmahon.rtv2go.channels.HorizontalListView
+            android:id="@+id/lsifaceChannels"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0dp"
+            android:background="@color/IFACE_BG"
+            android:layout_toRightOf="@+id/sbMiddleSeparator" />
+        <!-- /CHANNELS LIST -->
+</RelativeLayout>
+<!-- /TOP PANEL -->
+
+<!-- LOWER PANEL-->
+        <!-- THUMBNAILS -->
+        <Gallery
+            android:id="@+id/lsifaceThumbnails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:background="@color/IFACE_BG"
+            android:spacing="5dp" />
+        <ImageButton
+            android:id="@+id/lsifacePrev"
+            android:layout_width="35dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignTop="@+id/lsifaceThumbnails"
+            android:background="@android:color/transparent"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/left_arrow_opq"/>
+
+    <ImageButton
+        android:id="@+id/lsifaceNext"
+        android:layout_width="35dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignTop="@+id/lsifaceThumbnails"
+        android:background="@android:color/transparent"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/right_arrow_opq"/>
+<!--/LinearLayout-->
+        <TextView
+            android:id="@+id/lsifaceThumbTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_above="@+id/lsifaceThumbnails"
+            android:background="@color/IFACE_BG"
+            android:gravity="center_horizontal" />
+        <!-- /THUMBNAILS -->
+    </com.mmcmahon.rtv2go.VideoInterface>
+
+</RelativeLayout>

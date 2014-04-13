@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: com.mmcmahon.rtv2go" />
+        <option name="packageNamePattern" value="com.mmcmahon.rtv2go" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <pickBest>false</pickBest>
+        <target>android-17</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/channel_view.xml">
+        <config>
+          <device>Galaxy Nexus</device>
+          <theme>@android:style/Theme.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/lsiface2.xml">
+        <config>
+          <device>Nexus 7 2013</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/search_box.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Black.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.mmcmahon.rtv2go" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/HorizontalListView.java" line="102" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f58c35d1-d147-40c2-8e32-1e77ada2cc7d" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\.classpath" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\.project" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\css\theme_dark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\css\theme_light.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\img\loading_dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\img\loading_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\img\noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\img\nsfw.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\index0607.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\index2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\jquery.escapify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\jquery.lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\jstorage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\tv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\tv.vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\js\tv.youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\octatone-reddit.tv-9544d0e\make\make_loading_gif.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\css\theme_dark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\css\theme_light.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\img\loading_dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\img\loading_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\img\noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\img\nsfw.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\index0531.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\jquery.escapify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\jquery.lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\jstorage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\tv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\tv.vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\js\tv.youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\assets\rtv-video\make\make_loading_gif.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ACTV_VideoPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\LruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\RedditAPI$RedditAccount.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\RedditAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\Thumbnail$BitmapWorkerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\Thumbnail.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$ThumbnailContent.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoContainer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$5$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$JsInterface$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$JsInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$WCClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\bin\classes\com\mmcmahon\rtv2go\VideoPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\gen\com\mmcmahon\rtv2go\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\gen\com\mmcmahon\rtv2go\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\project.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-mdpi\btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-mdpi\next_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-mdpi\prev_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\layout\landscape_interface.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\layout\landscape_player.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\layout\player.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\jquery.escapify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\jquery.lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\jstorage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\tv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\tv.vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\raw\js\tv.youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\ACTV_VideoPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\LruCache.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\RedditAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\Thumbnail.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\ThumbnailsAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\VideoContainer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\VideoInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\RedditTV2GO\src\com\mmcmahon\rtv2go\VideoPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\css\theme_dark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\css\theme_light.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\img\loading_dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\img\loading_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\img\noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\img\nsfw.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\index0607.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\index2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\jquery.escapify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\jquery.lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\jstorage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\tv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\tv.vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\js\tv.youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\octatone-reddit.tv-9544d0e\make\make_loading_gif.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\css\theme_dark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\css\theme_light.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\img\loading_dark.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\img\loading_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\img\noimage.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\img\nsfw.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\index0531.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\js\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\js\jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\js\tv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\js\tv.vimeo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\js\tv.youtube.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\make\make_loading_gif.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\no_flash.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\assets\rtv-video\yttest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\RedditTV2GO.apk" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\APP_Rtv2go.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\BitmapCache$BitmapWorkerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\BitmapCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\Channel$HasVideos.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\Channel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter$OnChannelClick.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ChannelsInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView$MyWebChromeClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView$MyWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView0$MyWebChromeClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView0$MyWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HTML5WebView0.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HorizontalListView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HorizontalListView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HorizontalListView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\HorizontalListView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\InterfaceDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\JsInterface$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\JsInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\LruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\MenuDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\MenuDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\MenuDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\PullOut.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\RemoveDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\Thumbnail$BitmapWorkerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\Thumbnail.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailContent.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter$ThumbnailContent.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\ThumbnailsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VerticalButton.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoContainer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoInterface$ChannelsAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$JsInterface$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$JsInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoPlayer$WCClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\VideoPlayer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\classes\com\mmcmahon\rtv2go\WCClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\down_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\down_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\down_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\down_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\next_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\next_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\next_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\next_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\prev_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\prev_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\prev_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\up_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\up_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\up_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\up_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\video_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\videos_handle.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable-mdpi\videos_handle2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable\chrysler_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\bin\res\drawable\chrysler_side.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\anim\fade_inout.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\anim\search_add.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-ldpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\down_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\down_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\down_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\down_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\down_icon5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\next_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\next_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\next_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\next_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\next_icon8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\prev_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\prev_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\prev_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\prev_icon5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\search_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\up_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\up_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\up_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\up_icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\up_icon6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\video_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\video_icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\videos_handle.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-mdpi\videos_handle2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable\chrysler_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\drawable\chrysler_side.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\layout\landscape_interface.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\layout\landscape_player.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\layout\player.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\res\layout\thumbnail.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\rtv2go" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\APP_Rtv2go.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\BitmapCache.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\Channel.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\ChannelsAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\ChannelsInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\HTML5WebView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\HTML5WebView0.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\HorizontalListView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\InterfaceDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\JsInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\LruCache.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\MenuDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\PullOut.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\RedditAPI.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\RemoveDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\Thumbnail.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\ThumbnailContent.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\ThumbnailsAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\VerticalButton.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\VideoContainer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\VideoPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mike\projects\screenit\screenit\src\com\mmcmahon\rtv2go\WCClient.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$2.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$3.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$4.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$5.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/ACTV_VideoPlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/BuildConfig.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$anim.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$anim.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$array.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$array.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$attr.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$color.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$dimen.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$drawable.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$id.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$layout.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$string.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$styleable.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI$ClearRequests.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI$ClearRequests.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI$RedditAccount.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI$RedditAccount.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/RedditAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$10.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$2.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$3.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$4.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$5.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$6.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$7.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$8.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$9.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$HideTask$1.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$HideTask$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$HideTask.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$HideTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$LoginClosed.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$LoginClosed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$LoginOpened.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$LoginOpened.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$OnSearchClick.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$OnSearchClick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$OnThumbSelected.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$OnThumbSelected.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$UnameKeyListener.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface$UnameKeyListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface.class" afterPath="$PROJECT_DIR$/bin/classes/com/mmcmahon/rtv2go/VideoInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/android-support-v4.jar" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/default_video_poster.png" afterPath="$PROJECT_DIR$/res/drawable/default_video_poster.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/down_icon5.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/down_icon5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-ldpi/ic_launcher.png" afterPath="$PROJECT_DIR$/bin/res/drawable-ldpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable/icon.png" afterPath="$PROJECT_DIR$/bin/res/drawable/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/icon.png" afterPath="$PROJECT_DIR$/res/drawable/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/next_icon8.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/next_icon8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/prev_icon5.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/prev_icon5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/search_icon.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/search_icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/seenit.apk" afterPath="$PROJECT_DIR$/bin/seenit.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/up_icon6.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/up_icon6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/res/drawable-mdpi/video_icon2.png" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/video_icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java" afterPath="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BUrar.bat" afterPath="$PROJECT_DIR$/BUrar.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/mmcmahon/rtv2go/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/com/mmcmahon/rtv2go/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/LICENSE" afterPath="$PROJECT_DIR$/assets/rtv-video/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/mmcmahon/rtv2go/R.java" afterPath="$PROJECT_DIR$/gen/com/mmcmahon/rtv2go/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/README" afterPath="$PROJECT_DIR$/assets/rtv-video/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java" afterPath="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/attrs.xml" afterPath="$PROJECT_DIR$/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/channel_view.xml" afterPath="$PROJECT_DIR$/res/layout/channel_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/clockwise_spin.xml" afterPath="$PROJECT_DIR$/res/anim/clockwise_spin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/html5_custom_screen.xml" afterPath="$PROJECT_DIR$/res/layout/html5_custom_screen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/index.html" afterPath="$PROJECT_DIR$/assets/rtv-video/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="$PROJECT_DIR$/bin/jarlist.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/js/jquery.escapify.js" afterPath="$PROJECT_DIR$/assets/rtv-video/js/jquery.escapify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/jquery.escapify.js" afterPath="$PROJECT_DIR$/res/raw/js/jquery.escapify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/js/jquery.lazyload.min.js" afterPath="$PROJECT_DIR$/assets/rtv-video/js/jquery.lazyload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/jquery.lazyload.min.js" afterPath="$PROJECT_DIR$/res/raw/js/jquery.lazyload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/jquery.mousewheel.js" afterPath="$PROJECT_DIR$/res/raw/js/jquery.mousewheel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/jquery.scrollTo-1.4.2-min.js" afterPath="$PROJECT_DIR$/res/raw/js/jquery.scrollTo-1.4.2-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/rtv-video/js/jstorage.min.js" afterPath="$PROJECT_DIR$/assets/rtv-video/js/jstorage.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/jstorage.min.js" afterPath="$PROJECT_DIR$/res/raw/js/jstorage.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/layout_values.xml" afterPath="$PROJECT_DIR$/res/values/layout_values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/lsiface2.xml" afterPath="$PROJECT_DIR$/res/layout/lsiface2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/menu_popup.xml" afterPath="$PROJECT_DIR$/res/layout/menu_popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/packaged_channels.xml" afterPath="$PROJECT_DIR$/res/values/packaged_channels.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proguard-project.txt" afterPath="$PROJECT_DIR$/proguard-project.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/remove_popup.xml" afterPath="$PROJECT_DIR$/res/layout/remove_popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/thumb_background.xml" afterPath="$PROJECT_DIR$/res/drawable/thumb_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/thumb_background_opaque.xml" afterPath="$PROJECT_DIR$/res/drawable/thumb_background_opaque.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/thumb_bg.xml" afterPath="$PROJECT_DIR$/res/drawable/thumb_bg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/tv.js" afterPath="$PROJECT_DIR$/res/raw/js/tv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/tv.vimeo.js" afterPath="$PROJECT_DIR$/res/raw/js/tv.vimeo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/js/tv.youtube.js" afterPath="$PROJECT_DIR$/res/raw/js/tv.youtube.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/video_loading_progress.xml" afterPath="$PROJECT_DIR$/res/layout/video_loading_progress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/white_circle.xml" afterPath="$PROJECT_DIR$/res/drawable/white_circle.xml" />
+    </list>
+    <ignored path="seenit.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="seenit" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="VideoInterface.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.111111" vertical-offset="6987" max-vertical-offset="7293">
+              <caret line="187" column="53" selection-start-line="187" selection-start-column="53" selection-end-line="187" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Mike\Downloads\mcmahon_key_store.jks" />
+    <option name="KEY_ALIAS" value="michael mcmahon" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/assets/rtv-video/index14.html" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/tv2.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/tv.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/tv14.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/tv.youtube.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/rddVidParser.ytPlayerLoader.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/rddVidParser.js" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/Channel.java" />
+        <option value="$PROJECT_DIR$/res/layout/menu_popup.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/ChannelsJSInterface.java" />
+        <option value="$PROJECT_DIR$/res/layout/html5_custom_screen.xml" />
+        <option value="$PROJECT_DIR$/res/layout/remove_popup.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/MenuDialog.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbnailContent.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/LruCache.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/RemoveDialog.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values/packaged_channels.xml" />
+        <option value="$PROJECT_DIR$/res/layout/channel_view.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/HorizontalListView.java" />
+        <option value="$PROJECT_DIR$/res/values/layout_values.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/HTML5WebView.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/ChannelsAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/UrlImageView.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbListView.java" />
+        <option value="$PROJECT_DIR$/res/layout/lsiface2.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbnailsAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/BitmapCache.java" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/js/rdd_vid_parser.js" />
+        <option value="$PROJECT_DIR$/assets/rtv-video/index.html" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/VideoPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/JsInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/InterfaceDialog.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/search_box.xml" />
+        <option value="$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1083" />
+    <option name="height" value="616" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seenit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seenit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seenit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seenit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screenit" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seenit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screenit" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rtv2go" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="236" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0A3A90291602A02B" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="AndroidTargetDevices" value="emulator-5556" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554 (2)" />
+    <property name="DEBUGGABLE_PROCESS" value="com.mmcmahon.rtv2go" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="false" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="build" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mcmahon_key_store.jks" />
+    <property name="ExportedModule" value="seenit" />
+    <property name="ExportedApkPath" value="C:\Users\Mike\projects\screenit\screenit\seenit.apk" />
+    <property name="AndroidRunProguardForReleaseBuild" value="true" />
+    <property name="AndroidProguardConfigPaths" value="C:\android-studio\sdk\tools\proguard\proguard-android.txt;C:\Users\Mike\projects\screenit\screenit\proguard-project.txt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\projects\Users\Mike\Documents\projects\seenit\assets\rtv-video" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.seenit">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer">
+      <module name="" />
+      <setting name="serverAddress" value="" />
+      <setting name="sdkPath" value="" />
+      <setting name="serverPort" value="" />
+      <setting name="vmArgs" value="" />
+      <setting name="warPath" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="seenit" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="seenit" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="false" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.seenit" />
+    </list>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration useDefault="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f58c35d1-d147-40c2-8e32-1e77ada2cc7d" name="Default" comment="" />
+      <created>1371404581293</created>
+      <updated>1371404581293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1083" height="616" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285124" sideWeight="0.4995314" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42151675" sideWeight="0.609375" order="7" side_tool="false" content_ui="tabs" x="-66" y="242" width="975" height="387" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31692913" sideWeight="0.5023438" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28552458" sideWeight="0.42724457" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41401273" sideWeight="0.49609375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40605095" sideWeight="0.8645008" order="2" side_tool="false" content_ui="tabs" x="70" y="186" width="927" height="326" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25832012" sideWeight="0.6821192" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28209934" sideWeight="0.58774835" order="3" side_tool="true" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4378981" sideWeight="0.49765626" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24294356" sideWeight="0.8369099" order="3" side_tool="false" content_ui="tabs" x="258" y="164" width="193" height="109" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42716536" sideWeight="0.4995314" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8429752" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4090909" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285124" sideWeight="0.5004686" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28552458" sideWeight="0.42724457" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16871417" sideWeight="0.58774835" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52063495" sideWeight="0.49765697" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285124" sideWeight="0.4995314" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.24294356" sideWeight="0.8369099" order="4" side_tool="false" content_ui="tabs" x="258" y="164" width="193" height="109" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36825398" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31428573" sideWeight="0.7868463" order="8" side_tool="false" content_ui="tabs" x="-66" y="242" width="975" height="387" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41111112" sideWeight="0.49765626" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.38410595" sideWeight="0.8645008" order="2" side_tool="false" content_ui="tabs" x="70" y="186" width="927" height="326" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25398314" sideWeight="0.6821192" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8429752" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4090909" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+          <caret line="12" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/MenuDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/InterfaceDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6885">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/JsInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8500">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/MenuDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/InterfaceDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6885">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/JsInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2890">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8500">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/channel_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/HTML5WebView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/ChannelsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbnailContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/channels/HorizontalListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/lsiface2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/UrlImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/ThumbnailsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/thumbnails/BitmapCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/rtv-video/js/rdd_vid_parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/rtv-video/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/rtv-video/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/rtv-video/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/thumb_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/thumb_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/plus_sign.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video_loading_progress.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/js/tv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/layout_values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/packaged_channels.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BUrar.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_seenit_Wed_Dec_25_13-17-18_PST_2013.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaptainsLog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/JsInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/video/VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/MenuDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/dialogs/InterfaceDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/ACTV_VideoPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="306">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/search_box.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68456376" vertical-offset="0" max-vertical-offset="527">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mmcmahon/rtv2go/VideoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.111111" vertical-offset="6987" max-vertical-offset="7293">
+          <caret line="187" column="53" selection-start-line="187" selection-start-column="53" selection-end-line="187" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>seenit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android 4.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

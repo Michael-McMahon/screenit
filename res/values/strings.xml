@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">screenit</string>
+    <string name="topicSearch">Add new subreddit\u2026</string>
+    <string name="emptyVideosPrompt">No videos found in </string>
+    <string name="not_def_chan">Removed from default subreddits</string>
+    <string name="exit">Exit screenit</string>
+    <string name="remove_prompt">Remove %1$s?</string>
+    <string name="loading_video">Loading Video</string>
+    <string name="loading">Loading\u2026</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

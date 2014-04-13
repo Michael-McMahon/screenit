@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_seenit" default="compile.module.seenit">
+  <dirname property="module.seenit.basedir" file="${ant.file.module_seenit}"/>
+  
+  <property name="module.jdk.home.seenit" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.seenit" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.seenit" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.seenit" value="${compiler.args}"/>
+  
+  <property name="seenit.output.dir" value="${module.seenit.basedir}/out/production/seenit"/>
+  <property name="seenit.testoutput.dir" value="${module.seenit.basedir}/out/test/seenit"/>
+  
+  <path id="seenit.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="seenit.module.production.classpath">
+    <path refid="${module.jdk.classpath.seenit}"/>
+  </path>
+  
+  <path id="seenit.runtime.production.module.classpath">
+    <pathelement location="${seenit.output.dir}"/>
+  </path>
+  
+  <path id="seenit.module.classpath">
+    <path refid="${module.jdk.classpath.seenit}"/>
+    <pathelement location="${seenit.output.dir}"/>
+  </path>
+  
+  <path id="seenit.runtime.module.classpath">
+    <pathelement location="${seenit.testoutput.dir}"/>
+    <pathelement location="${seenit.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.seenit">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.seenit">
+    <patternset refid="compiler.excluded"/>
+    <patternset refid="excluded.from.module.seenit"/>
+  </patternset>
+  
+  <path id="seenit.module.sourcepath">
+    <dirset dir="${module.seenit.basedir}">
+      <include name="gen"/>
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.seenit" depends="compile.module.seenit.production,compile.module.seenit.tests" description="Compile module seenit"/>
+  
+  <target name="compile.module.seenit.production" description="Compile module seenit; production classes">
+    <mkdir dir="${seenit.output.dir}"/>
+    <javac destdir="${seenit.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.seenit}/javac">
+      <compilerarg line="${compiler.args.seenit}"/>
+      <bootclasspath refid="seenit.module.bootclasspath"/>
+      <classpath refid="seenit.module.production.classpath"/>
+      <src refid="seenit.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.seenit"/>
+    </javac>
+    
+    <copy todir="${seenit.output.dir}">
+      <fileset dir="${module.seenit.basedir}/gen">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+        <patternset refid="excluded.from.compilation.seenit"/>
+      </fileset>
+      <fileset dir="${module.seenit.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+        <patternset refid="excluded.from.compilation.seenit"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.seenit.tests" depends="compile.module.seenit.production" description="compile module seenit; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.seenit" description="cleanup module">
+    <delete dir="${seenit.output.dir}"/>
+    <delete dir="${seenit.testoutput.dir}"/>
+  </target>
+</project>
